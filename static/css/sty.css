@@ -1,0 +1,21 @@
+body{
+    background: #4fba91;
+    color: #FFFF;
+    text-align: center;
+}
+label {
+    display: block;
+    padding-left: 15px;
+    text-indent: 2px;
+}
+ 
+input {
+    widows: 50px;
+    height: 15px;
+    padding: 5;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: 1px;
+    *overflow: hidden;
+}
